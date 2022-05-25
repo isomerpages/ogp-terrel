@@ -15,9 +15,9 @@ youtube video
 table
 <table>
 	<tr>
-    <th>one</th>
-    <th>two</th>
-    <th>three</th>
+    <td>one</td>
+    <td>two</td>
+    <td>three</td>
   </tr>
   <tr>
     <td>apple</td>
