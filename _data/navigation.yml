@@ -6,3 +6,5 @@ links:
     url: /example-page/
   - title: Hello
     collection: hello
+  - title: Content
+    url: /content
