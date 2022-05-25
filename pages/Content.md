@@ -26,7 +26,7 @@ table
   </tr>
   <tr>
     <td>red</td>
-    <td>green</td>
+    <td>Green</td>
     <td>blue</td>
 	</tr>
 	<table>
