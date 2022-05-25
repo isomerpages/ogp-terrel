@@ -24,8 +24,8 @@ sections:
       button: Button text
       url: /faq/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
+      title: 2nd Infobar
+      subtitle: "Infobar Subtitle "
       description: Infobar description
       button: Button Text
 ---
